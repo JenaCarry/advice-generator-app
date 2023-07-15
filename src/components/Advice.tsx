@@ -13,15 +13,22 @@ export function Advice() {
   const [buttonAdvice, setButtonAdvice] = useState("");
 
   function fetchApi() {
-    setButtonAdvice("");
     fetch("https://api.adviceslip.com/advice")
       .then((res) => res.json())
       .then((data) => {
         setAdviceApi(data.slip);
-        setButtonAdvice("animate-spin");
+        setButtonAdvice("animate-spin cursor-not-allowed");
       })
       .catch((err) => console.log(err));
   }
+
+  if (buttonAdvice !== "") {
+    setTimeout(() => {
+      setButtonAdvice("");
+    }, 2000);
+  }
+
+  console.log(buttonAdvice);
 
   return (
     <section className="text-center relative px-7 pt-10 pb-16 min-[481px]:px-11">

@@ -15,7 +15,7 @@ module.exports = {
         "dark-blue": "hsl(218, 23%, 16%)",
       },
       animation: {
-        spin: "spin 1s ease-in-out",
+        spin: "spin 1.5s ease-in-out",
       },
     },
   },
