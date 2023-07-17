@@ -13,11 +13,11 @@
   <br>
 
   <div align="center">
-    <a href="">View Demo</a>
+    <a href="https://advice-generator-app-ten-phi.vercel.app/">View Demo</a>
     -
-    <a href="">Report Bug</a>
+    <a href="https://github.com/JenaCarry/advice-generator-app/issues">Report Bug</a>
     -
-    <a href="">Request Feature</a>
+    <a href="https://github.com/JenaCarry/advice-generator-app/pulls">Request Feature</a>
   </div>
 
 </div>
@@ -34,8 +34,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 <h2>Links</h2>
 
-- Solution URL: [Advice generator app | Frontend Mentor]()
-- Live Site URL: [https://jenacarry.github.io/qr-code-component/]()
+- Solution URL: [Advice generator app | Frontend Mentor](https://github.com/JenaCarry/advice-generator-app)
+- Live Site URL: [https://advice-generator-app-ten-phi.vercel.app/](https://advice-generator-app-ten-phi.vercel.app/)
 
 <br>
 
@@ -64,7 +64,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshot.png)
+![](./public/screenshot.png)
 
 ## My process
 

@@ -34,7 +34,7 @@ export function Advice() {
       <h2 className="text-sm text-neon-green uppercase tracking-[0.25em] mb-8">
         Advice # {advice.id}
       </h2>
-      <p className="max-[481px]:text-[1.375rem] text-[1.75rem] mb-6">
+      <p className="max-[481px]:text-[1.375rem] text-[1.75rem] max-[481px]:mb-6 mb-8">
         {advice.advice}
       </p>
       <Divider />
