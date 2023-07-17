@@ -5,7 +5,7 @@
   <h2>Advice generator app</h2>
 
   <h3>
-    <a href="">
+    <a href="https://www.frontendmentor.io/solutions/advice-generator-app-YXk5BDdyXq">
       <strong>Frontend Mentor</strong>
     </a>
   </h3>
@@ -34,7 +34,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 <h2>Links</h2>
 
-- Solution URL: [Advice generator app | Frontend Mentor](https://github.com/JenaCarry/advice-generator-app)
+- Solution URL: [Advice generator app | Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-YXk5BDdyXq)
 - Live Site URL: [https://advice-generator-app-ten-phi.vercel.app/](https://advice-generator-app-ten-phi.vercel.app/)
 
 <br>
