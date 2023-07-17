@@ -35,7 +35,7 @@ export function Advice() {
         Advice # {advice.id}
       </h2>
       <p className="max-[481px]:text-[1.375rem] text-[1.75rem] max-[481px]:mb-6 mb-8">
-        <span>&ldquo;</span> {advice.advice} <span>&rdquo;</span>
+        &ldquo; {advice.advice} &rdquo;
       </p>
       <Divider />
       <div className="absolute bottom-0 translate-y-1/2 left-1/2 -translate-x-1/2">
