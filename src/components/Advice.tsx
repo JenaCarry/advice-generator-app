@@ -26,7 +26,7 @@ export function Advice() {
   if (buttonAdvice !== "") {
     setTimeout(() => {
       setButtonAdvice("");
-    }, 2000);
+    }, 1500);
   }
 
   return (
