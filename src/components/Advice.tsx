@@ -4,8 +4,6 @@ import Image from "next/image";
 import { useState } from "react";
 import { Divider } from "./Divider";
 import { fetchAdvice } from "./fetchAdvice";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faQuoteLeft, faQuoteRight } from "@fortawesome/free-solid-svg-icons";
 
 interface AdviceProps {
   id: number;
